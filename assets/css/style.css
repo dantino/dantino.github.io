@@ -31,7 +31,8 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e89980;
+		color: #777;
+		background-color: #DDD;
 		text-decoration: none;
 	}
 
