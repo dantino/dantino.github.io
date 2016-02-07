@@ -3,7 +3,6 @@ title: Hola mundo
 layout: post
 ---
 
-### Here we go again
 
 ![Arboles de Monterrey]({{ site.baseurl }}/assets/images/mayin_arboles.jpg)
 {: .image.featured}
