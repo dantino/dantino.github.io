@@ -161,7 +161,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: justify;
 	}
 
 	header p {
@@ -485,8 +485,16 @@
 				}
 
 		.box.special {
-			text-align: center;
+			text-align: justify;
 		}
+
+		.date{
+			text-align: left;
+		} 
+
+		.date-centered{
+			text-align: center;
+		} 
 
 		.box .image.featured {
 			border-radius: 0;
@@ -688,6 +696,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			text-align: center;
 		}
 
 			ul.actions li {
